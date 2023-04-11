@@ -1,0 +1,2 @@
+# whisper-subtitles
+generate subtitles
